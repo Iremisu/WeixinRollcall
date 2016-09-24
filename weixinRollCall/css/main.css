@@ -1,0 +1,12 @@
+﻿body,button, input, select, textarea,h1 ,h2, h3, h4, h5, h6 { font-family: Microsoft YaHei,'宋体' , Tahoma, Helvetica, Arial, "\5b8b\4f53", sans-serif;}
+.navbar-93E0FF{
+  background-color: #93E0FF;
+  border-width:0;
+}
+       .list-group{
+           margin-top:50px
+       }
+       .list-group-item:first-child{
+           border-top-left-radius:0px;
+           border-top-right-radius:0px;
+       }
